@@ -3,7 +3,7 @@ package media;
 import java.util.List;
 
 /**
- * Created by Timothy on 7/3/19.
+ * The {@link Library} encompasses the full collection of {@link Track Tracks} as well as all generated {@link Playlist Playlists}.
  */
 public class Library {
 

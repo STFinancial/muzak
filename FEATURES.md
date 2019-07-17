@@ -10,3 +10,4 @@ skip count
 total play time
 start from/end at
 Various random/"shuffle" functionalities (with/without replacement)
+Different users, so a track can be "liked" by multiple users and you can switch between them easily with the same library

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace muzak.media
+﻿namespace muzak.media
 {
     /** A single media file? */
     class Track

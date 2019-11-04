@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muzak", "muzak\muzak.csproj", "{418089FA-0259-4838-A968-01D332B203CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muzak", "muzak.csproj", "{0AF01BFF-5C6E-4493-A497-DFB18571C218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{418089FA-0259-4838-A968-01D332B203CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{418089FA-0259-4838-A968-01D332B203CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{418089FA-0259-4838-A968-01D332B203CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{418089FA-0259-4838-A968-01D332B203CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF01BFF-5C6E-4493-A497-DFB18571C218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF01BFF-5C6E-4493-A497-DFB18571C218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF01BFF-5C6E-4493-A497-DFB18571C218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF01BFF-5C6E-4493-A497-DFB18571C218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {22B57266-1219-4EF2-849C-F445FFFA0F2C}
+		SolutionGuid = {BD209E68-5A27-43B7-8B42-D497C61AF4D5}
 	EndGlobalSection
 EndGlobal
